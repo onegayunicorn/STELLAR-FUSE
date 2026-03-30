@@ -1,0 +1,5 @@
+{
+  "name": "Stellar-Fuse Reactor Dashboard",
+  "description": "Operator interface for the Stellar-Fuse fusion reactor, featuring AI assistance, real-time fusion monitoring, and reactor state visualization.",
+  "requestFramePermissions": []
+}
